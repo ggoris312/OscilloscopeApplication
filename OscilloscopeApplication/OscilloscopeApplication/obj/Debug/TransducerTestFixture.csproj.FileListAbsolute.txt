@@ -1,0 +1,15 @@
+C:\Users\gio\Documents\Visual Studio 2017\Projects\TransducerTestFixture\TransducerTestFixture\obj\Debug\TransducerTestFixture.csprojResolveAssemblyReference.cache
+C:\Users\gio\Documents\Visual Studio 2017\Projects\TransducerTestFixture\TransducerTestFixture\obj\Debug\TransducerTestFixture.csproj.TransducerTestFixture.exe.config
+C:\Users\gio\Documents\Visual Studio 2017\Projects\TransducerTestFixture\TransducerTestFixture\bin\Debug\TransducerTestFixture.exe.config
+C:\Users\gio\Documents\Visual Studio 2017\Projects\TransducerTestFixture\TransducerTestFixture\bin\Debug\TransducerTestFixture.exe
+C:\Users\gio\Documents\Visual Studio 2017\Projects\TransducerTestFixture\TransducerTestFixture\bin\Debug\TransducerTestFixture.pdb
+C:\Users\gio\Documents\Visual Studio 2017\Projects\TransducerTestFixture\TransducerTestFixture\bin\Debug\NationalInstruments.Common.dll
+C:\Users\gio\Documents\Visual Studio 2017\Projects\TransducerTestFixture\TransducerTestFixture\bin\Debug\NationalInstruments.Visa.dll
+C:\Users\gio\Documents\Visual Studio 2017\Projects\TransducerTestFixture\TransducerTestFixture\bin\Debug\NationalInstruments.VisaNS.dll
+C:\Users\gio\Documents\Visual Studio 2017\Projects\TransducerTestFixture\TransducerTestFixture\bin\Debug\NationalInstruments.NiLmClientDLL.dll
+C:\Users\gio\Documents\Visual Studio 2017\Projects\TransducerTestFixture\TransducerTestFixture\bin\Debug\NationalInstruments.MStudioCLM.dll
+C:\Users\gio\Documents\Visual Studio 2017\Projects\TransducerTestFixture\TransducerTestFixture\bin\Debug\NationalInstruments.Common.xml
+C:\Users\gio\Documents\Visual Studio 2017\Projects\TransducerTestFixture\TransducerTestFixture\bin\Debug\NationalInstruments.Visa.xml
+C:\Users\gio\Documents\Visual Studio 2017\Projects\TransducerTestFixture\TransducerTestFixture\bin\Debug\NationalInstruments.VisaNS.xml
+C:\Users\gio\Documents\Visual Studio 2017\Projects\TransducerTestFixture\TransducerTestFixture\obj\Debug\TransducerTestFixture.exe
+C:\Users\gio\Documents\Visual Studio 2017\Projects\TransducerTestFixture\TransducerTestFixture\obj\Debug\TransducerTestFixture.pdb
